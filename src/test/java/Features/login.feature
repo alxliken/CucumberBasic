@@ -22,3 +22,4 @@ Feature: LoginFeature
       | execute  | automation |
       | testing  | qa         |
       | abc      | hdp        |
+      | test     | git        |
